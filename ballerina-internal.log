@@ -1,0 +1,154 @@
+[2020-12-11 20:28:28,800] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:28:28,815] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:36:44,396] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:36:44,406] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:38:20,703] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:38:20,716] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:54:27,181] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:54:27,194] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:55:02,648] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:55:02,660] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:55:22,432] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:55:22,443] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:28)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:56:45,454] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:27)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
+[2020-12-11 20:56:45,469] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at ___init.___stop_(.:27)
+	at ___init.$lambda$___stop_(.)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:482)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:263)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:231)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:218)
+	at ___init.$moduleStop(.)
+	at ___init$SignalListener.run(Unknown Source)
+ 
